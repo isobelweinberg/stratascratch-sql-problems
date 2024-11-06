@@ -4,4 +4,5 @@ This repository holds my solutions to MySQL questions on [stratascratch](https:/
 
 Current problem count:
 - 11 easy problems
-- 29 medium problem
+- 29 medium problems
+- 1 hard problems
