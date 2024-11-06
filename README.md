@@ -6,3 +6,5 @@ Current problem count:
 - 11 easy problems
 - 29 medium problems
 - 6 hard problems
+
+Total: 46
